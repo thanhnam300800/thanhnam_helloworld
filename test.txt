@@ -1,0 +1,3 @@
+test
+
+editor -"git add"-> storage -"git commit"-> local repo -"git push"-> github(Global repo)
